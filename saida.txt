@@ -1,0 +1,7 @@
+Custo da Árvore Geradora Mínima com : 6.9
+
+Arestas:
+0 1 0.9
+1 4 2.0
+0 2 3.0
+2 3 1.0
